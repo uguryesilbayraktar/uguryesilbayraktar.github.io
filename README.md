@@ -1,6 +1,6 @@
 # Uğur Yeşilbayraktar
 
-Personal academic website at https://uguryesil08.github.io/.
+Personal academic website at https://uguryesilbayraktar.github.io/.
 
 Plain HTML and CSS. No build step or dependencies.
 
